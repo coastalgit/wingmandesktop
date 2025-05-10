@@ -1,0 +1,38 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Flutter: Run",
+            "type": "shell",
+            "command": "flutter",
+            "args": [
+                "run",
+                "-d",
+                "windows"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "problemMatcher": []
+        },
+        {
+            "label": "Flutter: Hot Reload",
+            "type": "shell",
+            "command": "echo",
+            "args": [
+                "r"
+            ],
+            "problemMatcher": []
+        },
+        {
+            "label": "Flutter: Hot Restart",
+            "type": "shell",
+            "command": "echo",
+            "args": [
+                "R"
+            ],
+            "problemMatcher": []
+        }
+    ]
+}
