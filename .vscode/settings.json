@@ -1,14 +1,13 @@
 {
-    "dart.flutterHotReloadOnSave": true,
-    "dart.hotReloadOnSave": true,
-    "dart.previewHotReloadOnSaveWatcher": true,
-    "editor.formatOnSave": true,
-    "editor.formatOnType": true,
-    "editor.rulers": [
-        80
-    ],
-    "editor.codeActionsOnSave": {
-        "source.fixAll": "explicit"
-    },
-    "dart.openDevTools": "flutter"
+  "dart.flutterHotReloadOnSave": true,
+  "dart.hotReloadOnSave": true,
+  "dart.previewHotReloadOnSaveWatcher": true,
+  "editor.formatOnSave": true,
+  "editor.formatOnType": true,
+  "editor.rulers": [80],
+  "editor.codeActionsOnSave": {
+    "source.fixAll": "explicit"
+  },
+  "dart.openDevTools": "flutter",
+  "cmake.ignoreCMakeListsMissing": true
 }
