@@ -4,7 +4,8 @@
       "Bash(ls:*)",
       "Bash(find:*)",
       "Bash(flutter analyze:*)",
-      "Bash(/mnt/c/flutter/bin/flutter analyze)"
+      "Bash(/mnt/c/flutter/bin/flutter analyze)",
+      "Bash(dart analyze:*)"
     ],
     "deny": []
   }
